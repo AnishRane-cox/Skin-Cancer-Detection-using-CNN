@@ -68,4 +68,4 @@
 - Augmentor library documentation for handling class imbalance.
 
 ## Contact
-Created by [@yourgithubusername] - feel free to reach out!
+Created by [@AnishRane-cox] - feel free to reach out!
